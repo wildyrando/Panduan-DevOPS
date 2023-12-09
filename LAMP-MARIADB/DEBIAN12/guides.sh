@@ -3,6 +3,9 @@
 # Panduan installasi LAMP [ MariaDB ]
 # Debian 12
 #
+# Di tulis oleh : Wildy Sheverando
+# Wildy3128 <hai@wildy.one>
+#
 
 # >> Silakan masuk ke root user dulu, anda bisa cek root atau tidak menggunakan command ini
 if [[ $(whoami) == 'root' ]]; then
@@ -194,5 +197,3 @@ EXIT;
 # dan login pake user root yang telah dibuat tadi
 # Jika semuanya jalan berarti setup telah berhasil
 # Anda tinggal masukin web kamu ke folder /var/www/domainkamu.com/
-
-# Write: Wildy Sheverando
